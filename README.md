@@ -49,8 +49,6 @@ The project includes three main software parts:
 Pi Camera → Raspberry Pi → MJPEG Stream → Browser / Control Logic → Motor & Servo
 ```
 
-![System block diagram](images/block-diagram.png)
-
 ## Project Structure
 
 ```text
@@ -112,6 +110,7 @@ Robot Car setup:
 ![Robot car setup](images/robot-car-photo.png)
 
 Camera Stream Output:
+
 ![Camera stream output](images/camera-stream.png)
 
 ## What This Project Demonstrates
