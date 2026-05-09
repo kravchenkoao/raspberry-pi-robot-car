@@ -1,0 +1,33 @@
+{
+    "source": "opencv",
+    "camera_width": 480,
+    "camera_height": 360,
+    "camera_fps": 20,
+    "frame_color": "RGB",
+    "record_only_when_can_drive": true,
+    "lower_orange": [
+        0,
+        70,
+        70
+    ],
+    "upper_orange": [
+        25,
+        255,
+        255
+    ],
+    "min_area": 500,
+    "roi_top_percent": 0.55,
+    "roi_bottom_percent": 0.85,
+    "kp": 2.5,
+    "max_steering": 1.0,
+    "steering_sign": -1,
+    "throttle_straight": 0.5,
+    "throttle_turn": 0.47,
+    "throttle_sharp_turn": 0.45,
+    "default_lane_width": 264,
+    "min_lane_width": 120,
+    "max_lane_width": 456,
+    "lane_width_smoothing": 0.8,
+    "locked_match_max_distance": 144,
+    "locked_match_recovery_distance": 216
+}

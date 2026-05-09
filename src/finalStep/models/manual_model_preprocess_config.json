@@ -1,0 +1,11 @@
+{
+    "img_w": 160,
+    "img_h": 120,
+    "crop_top_percent": 0.0,
+    "crop_bottom_percent": 1.0,
+    "train_steering_only": true,
+    "input_color_after_cv2_imread": "BGR",
+    "model_input_color": "RGB",
+    "pixel_range": "0_to_1",
+    "output": "steering"
+}

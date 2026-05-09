@@ -1,0 +1,21 @@
+{
+    "source": "fpv",
+    "camera_width": 480,
+    "camera_height": 360,
+    "camera_fps": 30,
+    "frame_color": "BGR",
+    "record_only_when_moving": true,
+    "record_min_throttle": 0.03,
+    "web_throttle": 0.5,
+    "web_steering": -0.8,
+    "use_remote": true,
+    "remote_throttle_scale": 0.5,
+    "remote_steering_scale": 0.8,
+    "remote_deadzone": 0.15,
+    "remote_throttle_invert": false,
+    "remote_steering_invert": true,
+    "control_hz": 50,
+    "command_timeout": 0.8,
+    "throttle_step": 0.08,
+    "steering_step": 0.25
+}
